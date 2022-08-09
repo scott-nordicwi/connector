@@ -1,0 +1,8 @@
+{
+  "label": "Configuration",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "The Connector application is intended to be a no-code tool for healthcare data connectivity. During the Beta phase configuration will be completed through JSON files representing each configurable concept. Full release will include a front end website allowing users to make button-click selections for most configurability. 'Configurability' of the connector application means the following:"
+  }
+}
